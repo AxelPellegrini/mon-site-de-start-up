@@ -1,0 +1,25 @@
+.banner { 
+	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.3) 50%), url(../../images/recycling.jpg);
+	color : white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	front-size:54 px;
+	color: white;
+}
+
+.banner h2{
+	front-size : 26px;
+	font-weight: lighter;
+	color: white;
+	opacity: 1;
+	margin-bottom: 40px;
+}
+
+.banner.button-blue {
+	margin-top: 20px;
+}
+
